@@ -21,6 +21,7 @@ public class servlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		
 		System.out.println("팀원1 커밋할꼬야");
+		System.out.println("업로드!");
 	}
 
 }
